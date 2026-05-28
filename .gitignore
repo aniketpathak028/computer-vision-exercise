@@ -1,0 +1,128 @@
+
+# macOS
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+env/
+venv/
+.venv/
+venv3/
+env*/
+venv*/
+pip-wheel-metadata/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# LaTeX build artifacts (common for CVs written in LaTeX)
+*.aux
+*.bbl
+*.blg
+*.brf
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+
+# Compiled documents / exports
+*.pdf
+*.dvi
+*.ps
+
+# Word / Office temporary files
+~$*
+*.docx~
+
+# Images generated or exported (if you keep sources separately)
+*.eps
+*.svg
+
+# PyTorch / Deep Learning
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+
+# Dataset files (common formats)
+*.h5
+*.hdf5
+*.npz
+*.pkl
+*.pickle
+*.npy
+*.npy.gz
+
+# Large binary assets
+*.zip
+*.tar
+*.tar.gz
+*.tar.bz2
+*.7z
+*.rar
+
+# Model cache directories
+models/
+checkpoints/
+weights/
+cache/
+.cache/
+
+# Temporary results and outputs (keep results/ for submission files)
+**/temp/
+**/tmp/
+**/debug_output/
+**/logs/
+
+# Conda/Mamba environment files
+environment.lock.yml
+environment.yml
+conda-lock.yml
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Spyder
+.spyderproject
+.spyproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# OS temporary files
+.DS_Store
+Thumbs.db
+*.tmp
+
+# Archives and packages
+*.zip
+*.tar.gz
+*.rar
+
+# Secrets / environment
+.env
+*.key
+
+# Logs
+*.log
+
+# Other
+node_modules/
