@@ -19,6 +19,9 @@ venv*/
 pip-wheel-metadata/
 *.egg-info/
 
+./data
+data
+
 # Jupyter
 .ipynb_checkpoints
 
