@@ -129,3 +129,6 @@ Thumbs.db
 
 # Other
 node_modules/
+
+# ignore hfcache inside any subdirectory in exercises/
+exercises/**/hf_cache/**
